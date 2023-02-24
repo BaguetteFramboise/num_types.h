@@ -74,4 +74,4 @@ using f64 = double;
 } // namespace NUM_TYPES_CUSTOM_NAMESPACE
 #endif // __cplusplus
     
-#endif
+#endif // NUM_TYPES_H
